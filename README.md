@@ -29,7 +29,7 @@ About this algorithm (in Korean): [My Blog Post](https://taeoh-kim.github.io/blo
 - InfoGAN Discrete Code Dimension = 10
 - Continuous Code Weight = 0.1~0.5 MNIST / 1.0 CelebA
 - Discrete Code Weight = 1
-- Epoch = 30~50 MNIST / 3~4 CelebA
+- Epoch = 50 MNIST / 4 CelebA
 
 ### 2.2 Generator Networks (network.py)
 
